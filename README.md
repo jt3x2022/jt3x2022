@@ -1,4 +1,4 @@
-👋Hi, jt3x2022 here, started coding just aboyut a year ago. Started with scratch a few years back and moved on to python right now.
+👋Hi, jt3x2022 here, started coding just about a year ago. Started with scratch a few years back and moved on to python right now.
 
 📕Languages I know
 - 🐍Python
